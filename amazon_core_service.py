@@ -1,15 +1,13 @@
 def secret_amazon_service():
-    # Hash 5
-    # Hash 6
-    # Hash 7
-    # Hash 8
-    # Hash 9
-    # Hash 10
-    # Hash 11
-    # Hash 12
-    # Hash 13
-    # Hash 14
-
+# Hash 6
+# Hash 7
+# Hash 8
+# Hash 9
+# Hash 10
+# Hash 11
+# Hash 12
+# Hash 13
+# Hash 14
     warehouse_robots = ["Bob", "Alice", "Charlie"]
 
     for robot in warehouse_robots:
@@ -29,4 +27,3 @@ def secret_amazon_service():
     }
 
     return "Everything is technically working as intended... technically"
-
